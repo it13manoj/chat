@@ -1,7 +1,7 @@
 /* 
 Created by: Kenrick Beckett
 
-Name: Chat Engine
+Name: Chat Engine1
 */
 
 var instanse = false;
